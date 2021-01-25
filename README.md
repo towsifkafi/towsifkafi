@@ -1,4 +1,4 @@
-#  **🎉 Hey There Big Guy 🎉**
+#  **🎉 Hey There Cool Person 🅾w🅾 🎉**
 
 #### You found my Github repositories....NICE HEHE
 
@@ -8,6 +8,11 @@
   - ##### I am known as a professional idiot
   - ##### I like Anime >_< lots of lots of Anime
   - ##### I also like learning new things *OwO*
+
+#
+### 🔖 Projects I am working on:
+  - ##### ForkBot - A Cool Discord Bot  | [Repo](https://github.com/Towsif12/ForkBot)
+  - ##### UwU My Cool Website [https://towsifkafi.cf](https://towsifkafi.cf)  | [Repo](https://github.com/Towsif12/towsif12.github.io)
 
 
 #
@@ -21,13 +26,13 @@
 
 #
 ### 📩 Social Media:
-<a href="https://discord.com/invite/kDaeWYj4zJ">
+<a align="left" href="https://discord.com/invite/kDaeWYj4zJ">
     <img src="https://image.flaticon.com/icons/png/512/906/906361.png" alt="Discord" width="40"/>
  </a>
-<a href="https://fb.com/towsif.kafi">
+<a align="left" href="https://fb.com/towsif.kafi">
     <img src="https://f.hubspotusercontent30.net/hubfs/2235233/blog-import/2020/20-08-Aug/sm-icons-facebook-logo.png" alt="Facebook" width="40"/>
  </a>
- <a href="https://www.instagram.com/towsif.kafi/">
+ <a align="left" href="https://www.instagram.com/towsif.kafi/">
     <img src="https://www.transparentpng.com/thumb/instagram/T7PgIO-round-instagram-background.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
  </a>
   
