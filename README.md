@@ -45,4 +45,12 @@ if(!sleep) {
   console.log('._. y u not sleepin?')
 }
 ```
+
+---
+
+<h1 align='center'>Cool Stats</h1>
+
+<div align ="center">
+<img src="https://metrics.lecoq.io/towsif12?base.repositories=0&languages=1&isocalendar=1&followup=1">
+</div>
   
