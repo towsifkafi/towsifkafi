@@ -5,7 +5,6 @@
 #
 
 # Me:
-
   - ##### I am known as a professional idiot
   - ##### I like Anime >_< lots of lots of Anime
   - ##### I also like learning new things *OwO*
