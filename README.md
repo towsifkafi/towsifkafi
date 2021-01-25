@@ -4,7 +4,7 @@
 
 #
 
-### Me:
+### 🎐 Me:
   - ##### I am known as a professional idiot
   - ##### I like Anime >_< lots of lots of Anime
   - ##### I also like learning new things *OwO*
@@ -12,7 +12,7 @@
 
 #
 
-### Languages And Stuff:
+### 💾 Languages And Stuff:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
@@ -20,7 +20,7 @@
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
 #
-### Social Media:
+### 📩 Social Media:
 <a href="https://discord.com/invite/kDaeWYj4zJ">
     <img src="https://image.flaticon.com/icons/png/512/906/906361.png" alt="Discord" width="40"/>
  </a>
