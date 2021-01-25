@@ -1,8 +1,7 @@
 #  **🎉 Hey There Big Guy 🎉**
 
-##### You found my github repositories....NICE
+#### You found my Github repositories....NICE HEHE
 
-#
 #
 
 # Me:
