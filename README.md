@@ -6,7 +6,7 @@
 
 ### 🎐 Me:
   - ##### I am known as a professional idiot
-  - ##### I like Anime >_< lots of lots of Anime
+  - ##### I like Anime >_< lots of lots of Anime | [MyAnimeList](https://myanimelist.net/profile/towsifkafi)
   - ##### I also like learning new things *OwO*
 
 #
