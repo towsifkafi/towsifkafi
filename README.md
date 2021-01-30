@@ -51,6 +51,6 @@ if(!sleep) {
 <h1 align='center'>Cool Stats</h1>
 
 <div align ="center">
-<img src="https://metrics.lecoq.io/towsif12?base.repositories=0&languages=1&isocalendar=1&followup=1">
+<img src="https://metrics.lecoq.io/Towsif12?template=classic&activity=1&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FDhaka&config.animated=true">
 </div>
   
