@@ -33,7 +33,10 @@
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="Facebook" width="40"/>
  </a>
  <a align="left" href="https://www.instagram.com/towsif.kafi/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
+ </a>
+ <a align="left" href="https://twitter.com/TowsifKafi">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-256.png" alt="Twitter" width="40"/>
  </a>
   
   <br />
