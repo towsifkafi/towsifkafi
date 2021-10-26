@@ -27,13 +27,13 @@
 #
 ### 📩 Social Media:
 <a align="left" href="https://discord.com/invite/kDaeWYj4zJ">
-    <img src="https://image.flaticon.com/icons/png/512/906/906361.png" alt="Discord" width="40"/>
+    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png" alt="Discord" width="40"/>
  </a>
 <a align="left" href="https://fb.com/towsif.kafi">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="Facebook" width="40"/>
  </a>
  <a align="left" href="https://www.instagram.com/towsif.kafi/">
-    <img src="https://www.transparentpng.com/thumb/instagram/T7PgIO-round-instagram-background.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="42"/>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
  </a>
   
   <br />
