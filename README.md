@@ -30,7 +30,7 @@
     <img src="https://image.flaticon.com/icons/png/512/906/906361.png" alt="Discord" width="40"/>
  </a>
 <a align="left" href="https://fb.com/towsif.kafi">
-    <img src="https://f.hubspotusercontent30.net/hubfs/2235233/blog-import/2020/20-08-Aug/sm-icons-facebook-logo.png" alt="Facebook" width="40"/>
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="Facebook" width="40"/>
  </a>
  <a align="left" href="https://www.instagram.com/towsif.kafi/">
     <img src="https://www.transparentpng.com/thumb/instagram/T7PgIO-round-instagram-background.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="42"/>
