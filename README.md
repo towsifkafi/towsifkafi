@@ -1,10 +1,6 @@
-<p align="center">
-
-#  **🎉 Hey There Cool Person 🅾w🅾 🎉** 
+<h1 align="center">🎉 Hey There Cool Person 🅾w🅾 🎉</h1>
 
 #### You found my Github repositories....NICE HEHE
-
-</p>
 
 #
 
