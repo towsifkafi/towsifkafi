@@ -33,7 +33,7 @@
     <img src="https://f.hubspotusercontent30.net/hubfs/2235233/blog-import/2020/20-08-Aug/sm-icons-facebook-logo.png" alt="Facebook" width="40"/>
  </a>
  <a align="left" href="https://www.instagram.com/towsif.kafi/">
-    <img src="https://www.transparentpng.com/thumb/instagram/T7PgIO-round-instagram-background.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="50"/>
+    <img src="https://www.transparentpng.com/thumb/instagram/T7PgIO-round-instagram-background.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="42"/>
  </a>
   
   <br />
