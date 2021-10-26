@@ -1,10 +1,10 @@
-<div style="font-style: italic; text-align: center;" markdown="1">
+<p align="center">
 
 #  **🎉 Hey There Cool Person 🅾w🅾 🎉** 
 
 #### You found my Github repositories....NICE HEHE
 
-</div>
+</p>
 
 #
 
