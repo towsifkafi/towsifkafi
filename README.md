@@ -1,7 +1,10 @@
-#  **🎉 Hey There Cool Person 🅾w🅾 🎉** {align=center}
+<div style="font-style: italic; text-align: center;" markdown="1">
+
+#  **🎉 Hey There Cool Person 🅾w🅾 🎉** 
 
 #### You found my Github repositories....NICE HEHE
 
+</div>
 #
 
 ### 🎐 Me:
