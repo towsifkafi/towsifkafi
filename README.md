@@ -1,4 +1,4 @@
-<center>#  **🎉 Hey There Cool Person 🅾w🅾 🎉**</center>
+#  **🎉 Hey There Cool Person 🅾w🅾 🎉** {align=center}
 
 #### You found my Github repositories....NICE HEHE
 
