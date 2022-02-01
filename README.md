@@ -11,8 +11,7 @@
 
 #
 ### 🔖 Projects I am working on:
-  - ##### **ForkBot** - A Cool Discord Bot  | [Repo](https://github.com/Towsif12/ForkBot)
-  - ##### UwU My Cool Website [https://towsifkafi.cf](https://towsifkafi.cf)  | [Repo](https://github.com/Towsif12/towsif12.github.io)
+  - ##### Ehh.... do i look like i work? xD i am sleepin byeeeeeeeeeee...........
 
 
 #
