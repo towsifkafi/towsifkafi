@@ -6,7 +6,7 @@
 
 <div>
 
-  You're welcome! You found my GitHub profile. I'm a student right now with a fascination for technology and the Internet.
+  _**You're welcome! You found my GitHub profile. I'm a student right now with a fascination for technology and the Internet.**_
   <bd>
 
   - 💻 I like learning new things.
