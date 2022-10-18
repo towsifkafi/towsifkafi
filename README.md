@@ -45,6 +45,11 @@ Javascript
 <br>
 Node.JS
 </td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<br>
+Python
+</td>
 </tr>
 <tr>
 <td align="center" >
@@ -66,6 +71,11 @@ Java
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/>
 <br>
 Photoshop
+</td>
+<td align="center" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="50"/>
+<br>
+Discord.JS
 </td>
 </tr>
 </table>
