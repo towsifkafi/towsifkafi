@@ -1,59 +1,29 @@
-<h1 align="center">🎉 Hey There Cool Person 🅾w🅾 🎉</h1>
-
-<h4 align="center">You found my Github repositories....NICE HEHE</h4>
-
-#
-
-### 🎐 Me:
-  - ##### I am known as a professional idiot
-  - ##### I like Anime >_< lots of lots of Anime | [MyAnimeList](https://myanimelist.net/profile/towsifkafi)
-  - ##### I also like learning new things *OwO*
-
-#
-### 🔖 Projects I am working on:
-  - ##### Ehh.... do i look like i work? xD i am sleepin byeeeeeeeeeee...........
-
-
-#
-
-### 💾 Languages And Stuff:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
-<img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
-
-#
-### 📩 Social Media:
-<a align="left" href="https://discord.com/invite/kDaeWYj4zJ">
-    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-256.png" alt="Discord" width="40"/>
- </a>
-<a align="left" href="https://fb.com/towsif.kafi">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="Facebook" width="40"/>
- </a>
- <a align="left" href="https://www.instagram.com/towsif.kafi/">
-    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="InstaGRAAAAAAAAAAAAAAAAAAAAAAAAAAAm" width="40"/>
- </a>
- <a align="left" href="https://twitter.com/TowsifKafi">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-256.png" alt="Twitter" width="40"/>
- </a>
+<h1>Hi! I'm Towsif 👋</h1>
   
-  <br />
+<div style="display:flex;">
+
+<div>
+
+  You're welcome! You found my GitHub page. I'm a student right now with a fascination for technology and the Internet.
+  <bd>
+
+  - 💻 I like learning new things.
+  - 🐱 I like Anime . Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
+  - 📕 Working on small Discord bots.
+  - 🙂 I use JavaScript for competitive programming.
+
+</div>
   
-#
-<h3 align="center">💤</h3>
+
+<img src="https://metrics.lecoq.io/Towsif12?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FDhaka">
+</div>
+
+</div>
+
 
 ```js
 if(!sleep) {
   console.log('._. y u not sleepin?')
 }
 ```
-
----
-
-<h1 align='center'>Cool Stats</h1>
-
-<div align ="center">
-<img src="https://metrics.lecoq.io/Towsif12?template=classic&activity=1&isocalendar=1&languages=1&followup=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FDhaka&config.animated=true">
-</div>
   
