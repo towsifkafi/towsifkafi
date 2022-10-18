@@ -1,6 +1,6 @@
 <h1>Hi! I'm Towsif 👋</h1>
   
-<div style="display:flex; align-items:">
+<div style="display:flex; flex-direction: row">
 
 <div>
 
