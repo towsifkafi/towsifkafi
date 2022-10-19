@@ -2,7 +2,7 @@
 
 <div>
 
-[<img align="right" width="50%" src="https://github.com/Towsif12/github-stats-transparent/raw/output/generated/languages.svg">](https://metrics.lecoq.io/Towsif12#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github.com/Towsif12/Towsif12/raw/main/github-metrics.svg">](https://metrics.lecoq.io/Towsif12#gh-dark-mode-only)
 
 <div>
 
