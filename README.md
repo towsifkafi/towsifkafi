@@ -22,7 +22,7 @@
 
 </div>
 
-[<img align="right" width="50%" src="https://github.com/Towsif12/github-stats-transparent/raw/output/generated/overview.svg">](https://github.com/Towsif12/github-stats-transparent/raw/output/generated/overview.svg)
+[<img align="right" width="50%" src="https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg">](https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg)
 
 
 > 🛠 Working with:
