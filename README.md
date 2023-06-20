@@ -4,26 +4,29 @@
 
 <h1><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="33"/> Hi! I'm Towsif</h1>
 
-<div>
+> [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440)[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi)[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
 
-[<img align="right" width="50%" src="https://github.com/Towsif12/Towsif12/raw/main/github-metrics.svg">](https://metrics.lecoq.io/Towsif12#gh-dark-mode-only)
+<div class="main" style="display: flex; flex-wrap: wrap;">
 
-<div>
+<div class="left" style="flex: 1 0 250px;">
+<div class="about">
 
-  _**You're welcome! You found my GitHub profile. I'm a student right now with a fascination for technology and the Internet.**_
+  _**You're welcome! You found my GitHub profile. 
+    I'm a student right now with a fascination for technology 
+    and the Internet.**_
   <bd>
 
   - 💻 I like learning new things.
   - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
   - 📕 Working on small Discord bots.
   - ☁ Intrested in Web Development.
-  - 💭 I am mostly active on Discord. There, you are welcome to ask me anything. [**Werewolf#2427**](https://discord.com/users/674660356819517440)
-  - 🙂 I use JavaScript for competitive programming.
+  - 💭 I am mostly active on Discord. [**@towsifkafi**](https://discord.com/users/674660356819517440)
+    There, you are welcome to ask me anything. 
 
 </div>
 
-[<img align="right" width="50%" src="https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg">](https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg)
 
+<div class="work">
 
 > 🛠 Working with:
 
@@ -84,24 +87,20 @@ Discord.JS
 </tr>
 </table>
 
+</div>
+</div>
 
-> 🎈 Feel free to contact me :
 
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi)
-[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
+<div class="right" style="flex: 1 0 250px;">
+
+<img src="https://github.com/Towsif12/Towsif12/raw/main/github-metrics.svg">
+
+<img src="https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg">
+</div>
+
 
 </div>
 
 </div>
 
-![Discord](https://popcat.deta.dev/674660356819517440)
-
-#
-
-```js
-if(!sleep) {
-  console.log('._. y u not sleepin?')
-}
-```
   
