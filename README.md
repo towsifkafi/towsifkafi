@@ -18,8 +18,6 @@
 
   - 💻 I like learning new things.
   - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
-  - 📕 Working on small Discord bots.
-  - ☁ Intrested in Web Development.
   - 💭 I am mostly active on Discord. [**@towsifkafi**](https://discord.com/users/674660356819517440)
     There, you are welcome to ask me anything. 
 
@@ -31,60 +29,58 @@
 > 🛠 Working with:
 
 <table>
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-<br>
-HTML
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-<br>
-CSS
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-<br>
-Javascript
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-<br>
-Node.JS
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-<br>
-Python
-</td>
-</tr>
-<tr>
-<td align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-<br>
-React
-</td>
-<td align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
-<br>
-Go
-</td>
-<td align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-<br>
-Java
-</td>
-<td align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/>
-<br>
-Photoshop
-</td>
-<td align="center" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="30"/>
-<br>
-Discord.JS
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
+      <br>
+      HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
+      <br>
+      CSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+      <br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
+      <br>
+      Node.JS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+      <br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+      <br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
+      <br>
+      Go
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+      <br>
+      Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/>
+      <br>
+      Photoshop
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="30"/>
+      <br>
+      Discord.JS
+    </td>
+  </tr>
 </table>
 
 </div>
