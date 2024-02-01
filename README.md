@@ -89,9 +89,9 @@
 
 <div class="right" style="display:flex; flex-direction: column; flex: 1 0 250px;">
 
-<img src="https://github.com/Towsif12/Towsif12/raw/main/github-metrics.svg">
+<img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg">
 
-<img src="https://github.com/Towsif12/Towsif12/raw/output/generated/overview.svg">
+<img src="https://github.com/towsifkafi/towsifkafi/raw/output/generated/overview.svg">
 </div>
 
 
