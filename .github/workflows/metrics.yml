@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: Towsif12
+          user: towsifkafi
           template: classic
           base: header
           config_timezone: Asia/Dhaka
