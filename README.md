@@ -4,7 +4,7 @@
 
 <h1><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="33"/> Hi! I'm Towsif</h1>
 
-> [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440)[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi)[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
+> [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
 
 <div class="main" style="display: flex; flex-direction: row; flex-wrap: wrap;">
 
@@ -46,19 +46,29 @@
       JavaScript
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+      <br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="30"/>
+      <br>
+      Svelte
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
       <br>
       Node.JS
     </td>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/Towsif12/Towsif12/main/icon/rust-plain-png.png" width="30"/>
+      <br>
+      Rust
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
       <br>
       Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-      <br>
-      React
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
@@ -69,16 +79,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
       <br>
       Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/>
-      <br>
-      Photoshop
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="30"/>
-      <br>
-      Discord.JS
     </td>
   </tr>
 </table>
