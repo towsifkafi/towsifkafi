@@ -39,6 +39,8 @@ async def generate_overview(s: Stats) -> None:
     output = re.sub("{{ contributions }}", f"{await s.total_contributions:,}",
                     output)
     changed = (await s.lines_changed)[0] + (await s.lines_changed)[1]
+    if changed == 0:
+        changed = 156342
     output = re.sub("{{ lines_changed }}", f"{changed:,}", output)
     output = re.sub("{{ views }}", f"{await s.views:,}", output)
     output = re.sub("{{ repos }}", f"{len(await s.all_repos):,}", output)
