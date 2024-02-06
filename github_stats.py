@@ -232,11 +232,11 @@ class Stats(object):
     def __init__(self, username: str, access_token: str,
                  session: aiohttp.ClientSession,
                  exclude_repos: Optional[Set] = None,
-                 exclude_langs: Optional[Set] = None,
+                 exclude_langs: Optional[Set] = {"html"},
                  consider_forked_repos: bool = False):
         self.username = username
         self._exclude_repos = set() if exclude_repos is None else exclude_repos
-        self._exclude_langs = {"HTML"} if exclude_langs is None else exclude_langs
+        self._exclude_langs = set() if exclude_langs is None else exclude_langs
         self._consider_forked_repos = consider_forked_repos
         self.queries = Queries(username, access_token, session)
 
