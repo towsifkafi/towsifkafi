@@ -88,14 +88,20 @@
 
 
 <div class="right" style="display:flex; flex-direction: column; width: 100%;">
-  <img src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-metrics.svg"> 
-  
-  <!-- <img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg"> -->
+
+[<img align="left" width="360" alt="🦑" src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-metrics.svg">](#)
+[<img align="right" width="380" alt="🦑" src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-activity.svg">](#)
+
 </div>
 
 
 </div>
 </div>
 
+<div style="margin: 5px">
+
+
+
+</div>
 
   
