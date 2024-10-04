@@ -91,7 +91,6 @@
 
 <img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg">
 
-<img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-activity.svg">
 </div>
 
 
