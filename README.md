@@ -88,12 +88,13 @@
 
 
 <div class="right" style="display:flex; flex-direction: column;">
-  <img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg">
+  <!-- <img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg"> -->
 </div>
 
 
 </div>
-
 </div>
+
+![Metrics](https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg)
 
   
