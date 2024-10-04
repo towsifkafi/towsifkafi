@@ -88,7 +88,8 @@
 
 
 <div class="right" style="display:flex; flex-direction: column; width: 100%;">
-  <img width="100%" src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/main/github-metrics.svg">
+  <img src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-metrics.svg"> 
+  
   <!-- <img src="https://github.com/towsifkafi/towsifkafi/raw/main/github-metrics.svg"> -->
 </div>
 
