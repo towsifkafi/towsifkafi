@@ -89,8 +89,9 @@
 
 <div class="right" style="display:flex; flex-direction: column; width: 100%;">
 
-[<img align="left" width="390" alt="🦑" src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-metrics.svg?p">](#)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/towsifkafi/towsifkafi/refs/heads/main/github-activity.svg?p">](#)
+[<img align="left" width="390" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-metrics.svg">](#)
+
+[<img align="right" width="390" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-activity.svg">](#)
 
 </div>
 
