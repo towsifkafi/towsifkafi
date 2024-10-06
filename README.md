@@ -18,7 +18,7 @@
 
   - 💻 I like learning new things.
   - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
-  - 💭 I am mostly active on Discord. [**@towsifkafi**](https://discord.com/users/674660356819517440)
+  - 💭 I am mostly active on Discord. [**@towsif.kafi**](https://discord.com/users/565102845926572033)
     There, you are welcome to ask me anything. 
 
 </div>
