@@ -36,7 +36,7 @@ jobs:
           plugin_languages_categories: programming
           plugin_languages_colors: github
           plugin_languages_limit: 10
-          plugin_languages_ignored: html
+          plugin_languages_ignored: html,css
           plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
