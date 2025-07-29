@@ -1,29 +1,20 @@
 
-<div class="socials" style="display: flex; align-items: center; justify-content: center;">
+<center>
 
 ![Banner](banner.png)
+</center>
+
+<div align="center">
+<div style="gap: 5px;">
+
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
+
 </div>
-
-<div class="socials" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 5px;">
-
-<a href="https://discord.com/users/674660356819517440">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord">
-</a>
-<a href="https://twitter.com/TowsifKafi">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" alt="Twitter">
-</a>
-<a href="https://www.instagram.com/towsif.kafi/">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="Instagram">
-</a>
-
 </div>
 
 <br>
-
-<div class="socials" style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
-
-
-</div>
 
 
 <details open>
