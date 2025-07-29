@@ -1,108 +1,46 @@
 
-![Banner](https://raw.githubusercontent.com/Towsif12/Towsif12/main/banner.png)
+<center>
 
+![Banner](assets/banner.png)
+</center>
 
-<h1><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="33"/> Hi! I'm Towsif</h1>
+<div align="center">
+<div style="gap: 5px;">
 
-> [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
-
-<div class="main" style="display: flex; flex-direction: row; flex-wrap: wrap;">
-
-<div class="left" style="display:flex; flex-direction: column; flex: 1 0 250px;">
-<div class="about">
-
-  _**You're welcome! You found my GitHub profile. 
-    I'm a student right now with a fascination for technology 
-    and the Internet.**_
-  <bd>
-
-  - 💻 I like learning new things.
-  - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
-  - 💭 I am mostly active on Discord. [**@towsif.kafi**](https://discord.com/users/565102845926572033)
-    There, you are welcome to ask me anything. 
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi)
+[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
 
 </div>
+</div>
+
+<br>
 
 
-<div class="work">
+<details open>
+<summary>public keys</summary>
+<br>
 
-> 🛠 Working with:
+[`https://github.com/towsifkafi.keys`](https://github.com/towsifkafi.keys) [`https://github.com/towsifkafi.gpg`](https://github.com/towsifkafi.gpg)
 
-<table>
+```sh
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAG4+MbSU62wzR52unuAxNun9K05PhmpJWumcXSN2FVA
+```
+</details>
+
+<details open>
+<summary>stats</summary>
+<br>
+<table style="border-radius: 4px">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>
-      <br>
-      HTML
+      <img align="left" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-metrics.svg">
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>
-      <br>
-      CSS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
-      <br>
-      JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
-      <br>
-      React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="30"/>
-      <br>
-      Svelte
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>
-      <br>
-      Node.JS
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Towsif12/Towsif12/main/icon/rust-plain-png.png" width="30"/>
-      <br>
-      Rust
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
-      <br>
-      Python
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="30"/>
-      <br>
-      Go
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
-      <br>
-      Java
+      <img align="right" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-activity.svg">
     </td>
   </tr>
 </table>
-
-</div>
-</div>
-
-
-<div class="right" style="display:flex; flex-direction: column; width: 100%;">
-
-[<img align="left" width="390" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-metrics.svg">](#)
-
-[<img align="right" width="390" src="https://gist.githubusercontent.com/towsifkafi/cdaa58809a6e4ca7aac1c6cb72255248/raw/github-activity.svg">](#)
-
-</div>
-
-
-</div>
-</div>
-
-<div style="margin: 5px">
-
-
-
-</div>
+</details>
 
   
