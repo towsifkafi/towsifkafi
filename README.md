@@ -1,7 +1,10 @@
 
-![Banner](banner.png)
+<div class="socials" style="display: flex; align-items: center; justify-content: center;">
 
-<div class="socials" style="display: flex; flex-direction: row; justify-content: center; gap: 5px;">
+![Banner](banner.png)
+</div>
+
+<div class="socials" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 5px;">
 
 <a href="https://discord.com/users/674660356819517440">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord">
