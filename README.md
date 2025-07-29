@@ -1,7 +1,7 @@
 
 <center>
 
-![Banner](banner.png)
+![Banner](assets/banner.png)
 </center>
 
 <div align="center">
