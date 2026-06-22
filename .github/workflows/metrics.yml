@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Github Stats
-        uses: lowlighter/metrics@latest
+        uses: dkhokhlov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
@@ -44,7 +44,7 @@ jobs:
           plugin_languages_threshold: 0%
 
       - name: Account Activity
-        uses: lowlighter/metrics@latest
+        uses: dkhokhlov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-activity.svg
